@@ -1,8 +1,9 @@
-package java.lang;
+package myjava.lang;
 
 
 import java.text.SimpleDateFormat;
-import java.util.Observable;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Student {
     private String name;
@@ -12,6 +13,7 @@ public class Student {
 
     public static void main(String[] args) {
         //dateFormat.get();
+        List<String> list = new ArrayList<>();
 
     }
 }
