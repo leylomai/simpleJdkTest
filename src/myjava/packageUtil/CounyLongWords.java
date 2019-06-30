@@ -6,6 +6,8 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Supplier;
+import java.util.stream.Stream;
 
 public class CounyLongWords {
 
@@ -17,9 +19,27 @@ public class CounyLongWords {
             List<String> list = Arrays.asList(stringArray);
             long count = 0;
             for (String w : list) {
-                System.out.println(w);
+                //System.out.println(w);
+                if (w.length() >= 2) {
+                    count++;
+                }
             }
+            System.out.println(count);
+
+            count = list.stream().filter(w -> w.length() >= 2).count();
+            System.out.println(count);
+
+            count = list.parallelStream().filter(w -> w.length() >= 2).count();
+            System.out.println(count);
+
+            Stream.generate(new Supplier<Object>() {
+                @Override
+                public Object get() {
+                    return null;
+                }
+            });
         } catch (Exception e) {
+            System.out.println(e.getMessage());
 
         }
 
