@@ -1,8 +1,11 @@
 package myjava.concurrent;
 
 public class UnsynchBankTest {
+    //100个账户
     public static final int NACCOUNTS = 100;
+    //每个账户初始值1000
     public static final double INITIAL_BALANCE = 1000;
+
     public static final double MAX_AMOUNT = 1000;
     public static final int DELAY = 10;
 
@@ -18,7 +21,9 @@ public class UnsynchBankTest {
                         bank.transfer(fromAccount, toAccount, amount);
                         Thread.sleep((int) (DELAY*Math.random()));
                     }
-                } catch (Exception e) {}
+                } catch (Exception e) {
+
+                }
             };
             Thread t = new Thread(r);
             t.start();
