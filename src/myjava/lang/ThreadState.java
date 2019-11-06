@@ -30,9 +30,9 @@ public class ThreadState implements Runnable {
         System.out.println("新建线程：" + thread.getState());
         thread.start();
         System.out.println("启动线程：" + thread.getState());
-        Thread.sleep(100);
+        Thread.sleep(100);     //主线程等待
         System.out.println("计时等待：" + thread.getState());
-        Thread.sleep(1000);
+        Thread.sleep(1000);    //主线程等待
         System.out.println("等待线程：" + thread.getState());
         state.notifyNow();
         System.out.println("唤醒线程：" + thread.getState());
