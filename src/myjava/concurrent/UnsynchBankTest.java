@@ -10,7 +10,8 @@ public class UnsynchBankTest {
     public static final int DELAY = 10;
 
     public static void main(String[] args) {
-        Bank bank = new Bank(NACCOUNTS, INITIAL_BALANCE);
+        //Bank bank = new Bank(NACCOUNTS, INITIAL_BALANCE);
+        Bank3 bank = new Bank3(NACCOUNTS, INITIAL_BALANCE);
         for (int i=0; i<NACCOUNTS; i++) {
             int fromAccount = i;
             Runnable r = () -> {
@@ -22,7 +23,7 @@ public class UnsynchBankTest {
                         Thread.sleep((int) (DELAY*Math.random()));
                     }
                 } catch (Exception e) {
-
+                    e.printStackTrace();
                 }
             };
             Thread t = new Thread(r);
