@@ -1,9 +1,6 @@
 package myjava.packageUtil.stream;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
@@ -24,6 +21,26 @@ public class StreamTest {
                 return map;
             }
         }).collect(Collectors.toList());*/
+        try {
+            long stamp1 = System.currentTimeMillis();
+            String str1 = String.valueOf(stamp1);
+            System.out.println(str1);
+
+            Thread.sleep(100);
+
+            long stamp2 = System.currentTimeMillis();
+            String str2 = String.valueOf(stamp2);
+            System.out.println(str2);
+
+            Set<String> set = new HashSet<>();
+            set.add(str1);
+            set.add(str2);
+
+            long result = set.stream().mapToLong(string -> {return Long.valueOf(string);}).min().getAsLong();
+            System.out.println(result);
+        } catch (Exception e) {
+
+        }
 
     }
 
