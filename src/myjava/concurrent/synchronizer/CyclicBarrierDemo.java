@@ -18,8 +18,11 @@ public class CyclicBarrierDemo {
         @Override
         public void run() {
             try {
+                //士兵集合，所有士兵集合完毕（线程同步）后，执行BarrierRun线程
                 cyclicBarrier.await();
+                //执行任务
                 doWork();
+                //所有士兵任务完成（线程同步）后，执行BarrierRun线程
                 cyclicBarrier.await();
             } catch (InterruptedException e) {
                 e.printStackTrace();
@@ -61,6 +64,7 @@ public class CyclicBarrierDemo {
         final int N = 10;
         Thread[] allSoldiers = new Thread[N];
         boolean flag = false;
+        //线程到达屏障时，回调BarrierRun
         CyclicBarrier cyclicBarrier = new CyclicBarrier(N, new BarrierRun(flag, N));
         System.out.println("集合队伍！");
         for (int i=0; i<N; i++) {
