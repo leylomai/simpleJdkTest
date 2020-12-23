@@ -1,0 +1,15 @@
+
+’squid:S1192"oDefine a constant instead of duplicating this literal "é˜¶æ®µ=%sï¼Œçº¿ç¨‹=%sï¼Œæ—¶é—´=%s æ­£åœ¨æ‰§è¡Œ" 3 times.(ßÉöªÿÿÿÿÿ8ß¬˜Ôí-
+squid:S4144/"^Update this method so that its implementation is not identical to "firstPhaseWork" on line 29.(Ã£‡¯ıÿÿÿÿ8ß¬˜Ôí-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ßÉöªÿÿÿÿÿ8ß¬˜Ôí-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÆæÊìúÿÿÿÿ8ß¬˜Ôí-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ßÉöªÿÿÿÿÿ8ß¬˜Ôí-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÉöªÿÿÿÿÿ8ß¬˜Ôí-
+Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ß¬˜Ôí-
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ß¬˜Ôí-
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ß¬˜Ôí-
+Csquid:S2885" Make "sdf" an instance variable.(ÆæÊìúÿÿÿÿ8ß¬˜Ôí-
+|squid:S4144&"^Update this method so that its implementation is not identical to "firstPhaseWork" on line 29.(öÜıÚ8ß¬˜Ôí-

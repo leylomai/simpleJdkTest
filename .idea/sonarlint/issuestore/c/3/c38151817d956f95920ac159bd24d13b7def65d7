@@ -1,0 +1,15 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ë§ç¶ûÿÿÿÿ8µºÁ“æ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ùí†Œ8µºÁ“æ-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8àò§–æ-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µºÁ“æ-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÞñÂÏ8µºÁ“æ-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µºÁ“æ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ð‡©ýÿÿÿÿ8µÏ¸–æ-
+Qsquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8µÏ¸–æ-
+osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(áÙŒÙùÿÿÿÿ8µºÁ“æ-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU8µºÁ“æ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ç¤œšüÿÿÿÿ8•øµ–æ-

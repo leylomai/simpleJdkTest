@@ -1,0 +1,21 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª ƒäşÿÿÿÿ8ªÈƒÿã-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÍ¥¢8ªÈƒÿã-
+Qsquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ªÈƒÿã-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Áâ¤Œıÿÿÿÿ8ªÈƒÿã-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(÷’¥ˆıÿÿÿÿ8ªÈƒÿã-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ä±’8ªÈƒÿã-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûèƒÀûÿÿÿÿ8ªÈƒÿã-
+Usquid:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8ªÈƒÿã-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßÏ§’üÿÿÿÿ8ªÈƒÿã-
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Æ¤Úøüÿÿÿÿ8ªÈƒÿã-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ùì±8ªÈƒÿã-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Æ¤Úøüÿÿÿÿ8ªÈƒÿã-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ªÈƒÿã-
+Vsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(¼³ç÷8ªÈƒÿã-

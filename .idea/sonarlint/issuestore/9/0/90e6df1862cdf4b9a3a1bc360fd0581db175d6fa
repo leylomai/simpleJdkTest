@@ -1,0 +1,26 @@
+
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+Hsquid:S3599",Use another way to initialize this instance.(•ÖÉ8à·˜è-
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®“ûªıÿÿÿÿ8à·˜è-
+Msquid:S3599",Use another way to initialize this instance.(çø«£úÿÿÿÿ8à·˜è-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã ›8à·˜è-
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+Msquid:S3599",Use another way to initialize this instance.(“Ò˜Õûÿÿÿÿ8à·˜è-
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+Hsquid:S3599",Use another way to initialize this instance.(¾Ö°8à·˜è-
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+Hsquid:S3599",Use another way to initialize this instance.(×˜ÿ×8à·˜è-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã ›8à·˜è-
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+Msquid:S1602",Remove useless curly braces around statement(°¥§›øÿÿÿÿ8à·˜è-
+Hsquid:S3599",Use another way to initialize this instance.(è©°È8à·˜è-
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+Msquid:S3599",Use another way to initialize this instance.(È×ô´şÿÿÿÿ8à·˜è-
+zsquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8à·˜è-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ĞÇí¨8à·˜è-
+Hsquid:S3599",Use another way to initialize this instance.(†‹Æµ8à·˜è-
+Hsquid:S3599",Use another way to initialize this instance.(ºÃãÜ8à·˜è-
