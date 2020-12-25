@@ -1,9 +1,10 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(èŞø«8Û˜ùÑä.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Î©·8Û˜ùÑä.
-a
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Û˜ùÑä.
-C	java:S108")Either remove or fill this block of code.(ä ¹€8Û˜ùÑä.
-R	java:S106"9Replace this use of System.out or System.err by a logger.(áÓÔ8Û˜ùÑä.
-y	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹é´õşÿÿÿÿ8Û˜ùÑä.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ªËëôıÿÿÿÿ8Û˜ùÑä.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(áÓÔ8Û˜ùÑä.
+E	java:S108")Either remove or fill this block of code.(ä ¹€8Û˜ùÑä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î©·8Û˜ùÑä.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹é´õşÿÿÿÿ8Û˜ùÑä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªËëôıÿÿÿÿ8Û˜ùÑä.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Û˜ùÑä.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(èŞø«8Û˜ùÑä.

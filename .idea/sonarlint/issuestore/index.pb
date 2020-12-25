@@ -59,3 +59,7 @@ N
 src/myjava/jmx/HelloAgent.java,1\a\1ac6ee8191c67762d056a99d3e57b24f82efb657
 ]
 -src/myjava/concurrent/condition/ConTest2.java,c\f\cfabce688e7444df02bb7eea1cb4a84fcc360f8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+]
+-src/myjava/concurrent/condition/LockDemo.java,8\9\897ea9fb51dc93cfb8a839d277d0ad230c5d2150
