@@ -1,19 +1,14 @@
 
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ß‡şşÿÿÿÿ8‰‚³í-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(­ù†ûÿÿÿÿ8‰‚³í-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(éğæ8‰‚³í-
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø­à8‰‚³í-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰‚³í-
-2squid:S1700"Rename field "soldier"(•µµË8‰‚³í-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Åóôœüÿÿÿÿ8‰‚³í-
-esquid:S2147"DCombine this catch with the one at line 24, which has the same body.(†«”Ïüÿÿÿÿ8‰‚³í-
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‰‚³í-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰‚³í-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‰‚³í-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÔô½8‰‚³í-
-nsquid:S00116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿ8‰‚³í-
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø­à8ğ¤•Ï/
+1
+java:S1700"Rename field "soldier"(•µµË8ğ¤•Ï/
+a
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ğ¤•Ï/
+d
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(†«”Ïüÿÿÿÿ8ğ¤•Ï/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Åóôœüÿÿÿÿ8ğ¤•Ï/
+k	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿ8ğ¤•Ï/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éğæ8ğ¤•Ï/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ß‡şşÿÿÿÿ8ğ¤•Ï/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(­ù†ûÿÿÿÿ8ğ¤•Ï/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÔô½8ğ¤•Ï/

@@ -1,3 +1,10 @@
 
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+f
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(ªÖ¨²8›ËËáê.
+f
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(•ù¬·8›ËËáê.
+f
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(íÊÑó8›ËËáê.
+f
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(€ÅÎı8›ËËáê.
+T	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒÚáB8›ËËáê.
