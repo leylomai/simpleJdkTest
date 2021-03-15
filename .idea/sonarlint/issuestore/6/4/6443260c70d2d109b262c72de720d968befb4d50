@@ -1,14 +1,15 @@
 
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø­à8ğ¤•Ï/
-1
-java:S1700"Rename field "soldier"(•µµË8ğ¤•Ï/
-a
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ğ¤•Ï/
-d
-java:S2147"DCombine this catch with the one at line 27, which has the same body.(†«”Ïüÿÿÿÿ8ğ¤•Ï/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(Åóôœüÿÿÿÿ8ğ¤•Ï/
-k	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿ8ğ¤•Ï/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(éğæ8ğ¤•Ï/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ß‡şşÿÿÿÿ8ğ¤•Ï/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(­ù†ûÿÿÿÿ8ğ¤•Ï/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÔô½8ğ¤•Ï/
+f
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(†«”Ïüÿÿÿÿ8ğ¤•Ï/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(­ù†ûÿÿÿÿ8ğ¤•Ï/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Åóôœüÿÿÿÿ8ğ¤•Ï/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(ÒÔô½8ğ¤•Ï/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ğ¤•Ï/
+3
+java:S1700
+"Rename field "soldier"(•µµË8ğ¤•Ï/
+m	java:S116."LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿ8ğ¤•Ï/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ß‡şşÿÿÿÿ8ğ¤•Ï/
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø­à8ğ¤•Ï/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(éğæ8ğ¤•Ï/

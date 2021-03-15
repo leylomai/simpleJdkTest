@@ -1,13 +1,13 @@
 
-m
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ÅŒÍ¶ı.
-a
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÅŒÍ¶ı.
-s	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä¸ÛT8ÅŒÍ¶ı.
-a
-java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÅŒÍ¶ı.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(üÙÍºøÿÿÿÿ8ÅŒÍ¶ı.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Î©·8ÅŒÍ¶ı.
-C	java:S108")Either remove or fill this block of code.(ä ¹€8ÅŒÍ¶ı.
-C	java:S108")Either remove or fill this block of code.(ä ¹€8ÅŒÍ¶ı.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(èŞø«8ÅŒÍ¶ı.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÅŒÍ¶ı.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8ÅŒÍ¶ı.
+c
+java:S2142/"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÅŒÍ¶ı.
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä¸ÛT8ÅŒÍ¶ı.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(èŞø«8ÅŒÍ¶ı.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î©·8ÅŒÍ¶ı.
+E	java:S108")Either remove or fill this block of code.(ä ¹€8ÅŒÍ¶ı.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(üÙÍºøÿÿÿÿ8ÅŒÍ¶ı.
+E	java:S108/")Either remove or fill this block of code.(ä ¹€8ÅŒÍ¶ı.
