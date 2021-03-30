@@ -67,3 +67,9 @@ b
 2src/myjava/concurrent/condition/InterruptTest.java,7\2\727e14ad259cb161c2ed5a4214a60a6b28ead5d9
 e
 5src/myjava/concurrent/synchronizer/ExchangerTest.java,3\5\350666b61979e089d5fe92811ae71a7b58b71ea0
+d
+4src/myjava/concurrent/callableFuture/Computable.java,a\b\ab3c495c54c79deaf3a79ba983b2b2380ac3f440
+k
+;src/myjava/concurrent/callableFuture/ExpensiveFunction.java,6\9\69e7b1dc3ee3b68f33620e2977341cb40c1fd54c
+b
+2src/myjava/concurrent/callableFuture/Memoizer.java,4\4\44a9c4ef97880c44fb5cbeda8dfc121ff979f8a6
