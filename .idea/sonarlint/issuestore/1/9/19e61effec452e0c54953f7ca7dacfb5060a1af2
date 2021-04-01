@@ -1,5 +1,5 @@
 
-E	java:S1081")Either remove or fill this block of code.(”ı¾8ë“·œƒ/
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂŸø„úÿÿÿÿ8ë“·œƒ/
 W
 java:S1141*"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ë“·œƒ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂŸø„úÿÿÿÿ8ë“·œƒ/
+E	java:S1081")Either remove or fill this block of code.(”ı¾8ë“·œƒ/

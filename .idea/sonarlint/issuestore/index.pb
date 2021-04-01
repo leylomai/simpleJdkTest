@@ -73,3 +73,11 @@ k
 ;src/myjava/concurrent/callableFuture/ExpensiveFunction.java,6\9\69e7b1dc3ee3b68f33620e2977341cb40c1fd54c
 b
 2src/myjava/concurrent/callableFuture/Memoizer.java,4\4\44a9c4ef97880c44fb5cbeda8dfc121ff979f8a6
+o
+?src/myjava/concurrent/threadPool/interrupt/CancellableTask.java,0\8\08f8a80b9e1a475fa39783af7b39d1c31854afe7
+m
+=src/myjava/concurrent/threadPool/interrupt/InterruptTest.java,0\a\0abdc341a2ac9a9430b89e3ab7a16a780b7bc0c2
+r
+Bsrc/myjava/concurrent/threadPool/interrupt/CancellingExecutor.java,6\2\621a1a48edc14c7ab1066e16fe0409221cfcc325
+o
+?src/myjava/concurrent/threadPool/interrupt/SocketUsingTask.java,a\a\aa564acc5e56e9838ebe691611efaab016115482
