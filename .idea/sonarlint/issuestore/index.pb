@@ -81,3 +81,5 @@ r
 Bsrc/myjava/concurrent/threadPool/interrupt/CancellingExecutor.java,6\2\621a1a48edc14c7ab1066e16fe0409221cfcc325
 o
 ?src/myjava/concurrent/threadPool/interrupt/SocketUsingTask.java,a\a\aa564acc5e56e9838ebe691611efaab016115482
+j
+:src/myjava/concurrent/threadPool/interrupt/LogService.java,2\1\21cddcd196ffe0cb1d66afd6cb7813ac6ec19f1b
